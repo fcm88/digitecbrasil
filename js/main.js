@@ -3,7 +3,7 @@ const CONFIG = {
   // Substitua pelo número oficial do WhatsApp Business (55 + DDD + Número, apenas dígitos)
   whatsappNumber: '555197741165',
   whatsappDefaultMessage: 'Olá! Vim pelo site digitecbrasil.com.br e gostaria de falar com a Digitec.',
-  emailCorporativo: 'contato@digitecbrasil.com.br'
+  emailCorporativo: 'suporte@selfhaven.com.br'
 };
 
 document.addEventListener('DOMContentLoaded', () => {
